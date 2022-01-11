@@ -1,2 +1,3 @@
-# hacknitp-rules
-Rules and guidelines for HackNITP 4.0
+# HackNITP 4.0 - Rules and Guidelines
+
+Rules and Guidelines for HackNITP 4.0
