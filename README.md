@@ -16,7 +16,7 @@ Tagline: *Press Any Key to Continue…*
 |---|---|---|
 15 Jan'22|21:00 IST|Registration Starts|
 3 Feb'22|18:00 IST|Info Session|
-4 Feb'22||Workshop Series Starts|
+6 Feb'22||Workshop Series Starts|
 10 Feb'22||Workshop Series Ends|
 10 Feb'22|21:00 IST|Registration Ends|
 11 Feb'22|16:00 IST|Opening Ceremony|
@@ -47,6 +47,7 @@ The tracks can be chosen among:
 - Augmented Reality and Virtual Reality (AR/VR)
 
 ### Special Tracks
+- FOSS
 - Polygon
 - Tezos
 - Celo
@@ -125,6 +126,7 @@ The Submission has to be done in the following way:
 
 ## Additional Submission Guidelines for Special Tracks
 
+- [FOSS](https://fossunited.org/hackathon-grant)
 - [Polygon](https://www.notion.so/Polygon-Devfolio-Hackathon-Season-Prize-de8961d5eeff4780963749da0b75037c)
 - [Tezos](https://www.notion.so/Tezos-Devfolio-Hackathon-Season-Prize-e90b6811b0df43e5a7dadf534fc000ff)
 - [Celo](https://www.notion.so/Celo-Devfolio-Hackathon-Season-Prize-8b98dac17f134abeae863d5d98c01ff0)
@@ -184,6 +186,6 @@ If you have any questions for us, please get in touch at [hackslashclub@nitp.ac.
 
 #
 
-Version: 1.0.0
+Version: 1.1.0
 
-This document was last updated on: January 15, 2022
+This document was last updated on: February 4, 2022
