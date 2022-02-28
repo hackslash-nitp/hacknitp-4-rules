@@ -77,7 +77,7 @@ The tracks can be chosen among:
 
 # Terms and conditions on Project
 
-- It is compulsory for each team to first select at least one track and then theme(s) should be chosen.
+- It is compulsory for each team to first select at least one theme and then track(s) should be chosen.
 - The work on a project must strictly be done during the 48 hours duration of the hackathon. 
 - Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
 - We encourage you to submit projects only prepared in the duration of the hackathon. However, if you decide to submit projects consisting of re-used code, or re-submit a project that you have already submitted previously to any other hackathon, you are to disclose such previous use and its extent with the submission. If upon inspection, it is found that the project has reused code that was not disclosed with the submission, the organizer may ask the participant to point out similarities and differences between the old and new work, and/or disqualify the submission from winning awards automatically.
@@ -184,6 +184,6 @@ If you have any questions for us, please get in touch at [hackslashclub@nitp.ac.
 
 #
 
-Version: 1.0.0
+Version: 1.1.0
 
-This document was last updated on: January 15, 2022
+This document was last updated on: March 1, 2022
